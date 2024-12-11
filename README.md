@@ -29,7 +29,7 @@ welcome to my page! i'm a **full stack developer** from the <img height="13" alt
   <img alt="Static Badge" src="https://img.shields.io/badge/macos-000000?style=flat-square&logo=apple&logoColor=ffffff">
 </p>
 
-## <img height="24" alt="cat nerd" src="https://emojis.slackmojis.com/emojis/images/1643515023/10521/meow_code.gif?1643515023"> my projects
+## <img height="24" alt="cat nerd" src="https://emojis.slackmojis.com/emojis/images/1643515023/10521/meow_code.gif?1643515023"> projects
 
 | 🔥 project | ✨ description | 🚦 status | 🌍 open source | 🌿 version |
 | - | - | - | - | - |
