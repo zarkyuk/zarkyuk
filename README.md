@@ -1,5 +1,3 @@
-# <img height="32" alt="cat dance" src="https://emojis.slackmojis.com/emojis/images/1643514853/8661/fast_meow_party.gif?1643514853"> hey there
-
 welcome to my page! i'm a **full stack developer** from the <img height="13" alt="uk flag" src="https://cdn-icons-png.flaticon.com/512/197/197374.png"> **United Kingdom**
 
 <div>
@@ -30,3 +28,9 @@ welcome to my page! i'm a **full stack developer** from the <img height="13" alt
   <img alt="Static Badge" src="https://img.shields.io/badge/vercel-000000?style=flat-square&logo=vercel&logoColor=ffffff">
   <img alt="Static Badge" src="https://img.shields.io/badge/macos-000000?style=flat-square&logo=apple&logoColor=ffffff">
 </p>
+
+## <img height="24" alt="cat nerd" src="https://emojis.slackmojis.com/emojis/images/1643515023/10521/meow_code.gif?1643515023"> my projects
+
+| 🔥 project | ✨ description | 🚦 status | 🌍 open source | 🌿 version |
+| - | - | - | - | - |
+| [illusionradio.co.uk](https://illusionradio.co.uk) | internet radio station | <img alt="Static Badge" src="https://img.shields.io/badge/in%20development-blue?style=flat-square"> | <img alt="Static Badge" src="https://img.shields.io/badge/closed%20source-red?style=flat-square"> | v0.1.0 |
