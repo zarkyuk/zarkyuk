@@ -31,7 +31,7 @@ welcome to my page! i'm a **full stack developer** from the <img height="13" alt
 
 ## <img height="24" alt="cat nerd" src="https://emojis.slackmojis.com/emojis/images/1643515023/10521/meow_code.gif?1643515023"> projects
 
-| 🔥 project | ✨ description | 🚦 status | 🌍 open source | 🌿 version |
-| - | - | - | - | - |
-| [illusionradio.co.uk](https://illusionradio.co.uk) | internet radio station | <img alt="Static Badge" src="https://img.shields.io/badge/discontinued-red?style=flat-square"> | <img alt="Static Badge" src="https://img.shields.io/badge/closed%20source-red?style=flat-square"> | v1.0.0 |
-| [cosmos](https://cosmos.zarky.uk) | upload service | <img alt="Static Badge" src="https://img.shields.io/badge/in%20development-blue?style=flat-square"> | <img alt="Static Badge" src="https://img.shields.io/badge/closed%20source-red?style=flat-square"> | v0.0.0 |
+| 🔥 project | ✨ description | 🚦 status | 🌍 open source | ❔ languages | 🌿 version |
+| - | - | - | - | - | - |
+| [passwords](https://passwords.zarky.uk) | ultra fast password generator, generate strong passwords in seconds and with ease. | <img alt="Static Badge" src="https://img.shields.io/badge/%20operational-green?style=flat-square"> | <img alt="Static Badge" src="https://img.shields.io/badge/closed%20source-red?style=flat-square"> | <img alt="Static Badge" src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff">   <img alt="Static Badge" src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=ffffff"> | v0.1.0 |
+| [illusionradio.co.uk](https://illusionradio.co.uk) | internet radio station | <img alt="Static Badge" src="https://img.shields.io/badge/discontinued-red?style=flat-square"> | <img alt="Static Badge" src="https://img.shields.io/badge/closed%20source-red?style=flat-square"> | <img alt="Static Badge" src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff">   <img alt="Static Badge" src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=ffffff">  | v1.0.0 |
